@@ -11,16 +11,13 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import java.util.List;
 import java.util.UUID;
-/**
-* Created by sylveryte on 21/2/16.
-*/
+
 public class AttendanceAddFragment extends Fragment {
  private RecyclerView mAttendanceRecyclerView;
  private RollAdapter mRollAdapter;
  private Lecture mLecture;
  private Attendance mAttendance;
  private List<Student> mStudents;
-PAGE 52
  @Nullable
  @Override
  public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -42,7 +39,6 @@ mAttendanceRecyclerView=(RecyclerView)view.findViewById(R.id.attendance_containe
  super.onPause();
  AttendanceLab.get().updateDatabaseOfAttendance(mAttendance);
  }
-PAGE 53
  private class RollHolder extends RecyclerView.ViewHolder
  {
  private Student mStudent;
@@ -70,7 +66,6 @@ PAGE 53
  mButton.setBackgroundResource(R.drawable.present);
  }
  }
-PAGE 54
  }
  private void updateUI()
  {
