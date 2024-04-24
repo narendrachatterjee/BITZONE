@@ -24,3 +24,15 @@ downloading different application forms etc.<br>
 • Scalable and Customizable<br>
 • Effective communication between administrator, teachers, and students<br>
 • Centrally stored information with zero redundancy<br>
+
+<h2>Output</h2>
+![image](https://github.com/narendrachatterjee/BITZONE/assets/48941364/94468345-7335-4891-8aed-bca026420c28)
+![image](https://github.com/narendrachatterjee/BITZONE/assets/48941364/3d3388a6-82e2-401a-9ed7-e475c10f4975)
+![image](https://github.com/narendrachatterjee/BITZONE/assets/48941364/a7b04a13-a5fd-4afe-892c-eadb09c5590a)
+![image](https://github.com/narendrachatterjee/BITZONE/assets/48941364/5aea7bac-bf48-4557-ac64-3a964c77bdc3)
+![image](https://github.com/narendrachatterjee/BITZONE/assets/48941364/bf10eba4-0876-43b7-9dd5-aee9db45a166)
+
+
+
+
+
